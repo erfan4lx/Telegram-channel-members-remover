@@ -13,7 +13,7 @@ A free GUI Python tool to fast remove all the members from your target Telegram 
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/rde8bv8s7bM)
 
 ## 🚀 Get it from our Website 🚀
-🌐 **Website:** [**https://erfan4lx.com**](https://erfan4lx.com) 
+🌐 **Website:** [**https://erfan4lx.com/product/telegram-channel-members-remover/**](https://erfan4lx.com/product/telegram-channel-members-remover/) 
 
 # 🚀 How to Use
 ```bash
